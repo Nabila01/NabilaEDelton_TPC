@@ -120,19 +120,7 @@ public class MainActivity extends AppCompatActivity {
         dicionario.put("D", 500);
         dicionario.put("M", 1000);
 
-        /*rbDecimal.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                layout1.setBackground(Drawable.createFromPath("@drawable/romano5"));
-            }
-        });
-
-        rbRomano.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                layout1.setBackground(Drawable.createFromPath("@drawable/romano7"));
-            }
-        });*/
+       
 
         adicionar.setOnClickListener(new View.OnClickListener() {
             @Override
